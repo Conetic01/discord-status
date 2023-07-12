@@ -1,0 +1,17 @@
+{
+  "name": "role-bot",
+  "version": "1.0.0",
+  "description": "A discord bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "kangaroo",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^13.0.1",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "quick.db": "^7.1.3"
+  }
+}

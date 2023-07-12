@@ -1,0 +1,7 @@
+{
+	"owner": "owner_id",
+	"token": "bot_token",
+	"server": "server_id",
+	"role": "role_id",
+	"text": "test"
+}
